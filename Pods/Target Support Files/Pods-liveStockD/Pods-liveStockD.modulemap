@@ -1,0 +1,6 @@
+framework module Pods_liveStockD {
+  umbrella header "Pods-liveStockD-umbrella.h"
+
+  export *
+  module * { export * }
+}

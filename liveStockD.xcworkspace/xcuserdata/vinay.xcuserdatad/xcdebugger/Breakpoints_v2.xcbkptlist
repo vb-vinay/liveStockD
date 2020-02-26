@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7094E00A-97A6-4889-814C-BC6F051B11EC"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA89B316-969D-4AB8-9997-2A9EA958D624"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "liveStockD/Classes/Networking/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getSliders(completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B81378B6-62D4-4ACF-BBC1-ED985E4192F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "liveStockD/Classes/Views/UICollectionViewCells/SliderCnC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "populateWithData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B81378B6-62D4-4ACF-BBC1-ED985E4192F8 - ebbbcd02c4c054e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in liveStockD.SliderCnC.populateWithData(liveStockD.SliderList) -&gt; ()"
+                  moduleName = "liveStockD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinay/SampleProjects/liveStockD/liveStockD/Classes/Views/UICollectionViewCells/SliderCnC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  uuid = "B81378B6-62D4-4ACF-BBC1-ED985E4192F8 - fcb0545a65e8fc92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in liveStockD.SliderCnC.populateWithData(liveStockD.SliderList) -&gt; ()"
+                  moduleName = "liveStockD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vinay/SampleProjects/liveStockD/liveStockD/Classes/Views/UICollectionViewCells/SliderCnC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "75">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
